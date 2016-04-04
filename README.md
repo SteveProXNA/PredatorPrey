@@ -15,9 +15,10 @@ https://github.com/SteveProXNA/PredatorPrey
 Contains all inputs (see below).
 
 NB: if this file is not present then default hardcoded values will be used.
+<br />
 IMPORTANT: there is no validation on data in this file (if entries invalid)!
 
-Default configuration values (if no file present)
+Default configuration values (if no file present)<br />
 [MAX_NUMBER_GAMELOOPS]	= 20;<br />
 [WIDTH_ENVIRONMENT] 	= 16;<br />
 [HEIGHT_ENVIRONMENT] 	= 16;<br />
