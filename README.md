@@ -12,7 +12,7 @@ Thursday, 7th July 2011
 https://github.com/SteveProXNA/PredatorPrey
 
 ###### CONFIGURATION
-Contains all inputs (see below).
+Contains all inputs (see below).  File: "PredatorPrey.txt"
 
 NB: if this file is not present then default hardcoded values will be used.
 <br />
