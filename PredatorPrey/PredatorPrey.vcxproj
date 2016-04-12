@@ -97,6 +97,10 @@
     <ClCompile Include="Prey.cpp" />
     <ClCompile Include="Simulation.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Content\Skeleton.ico" />
+    <None Include="Content\Skeleton_sm.ico" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

@@ -65,4 +65,12 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Content\Skeleton.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Content\Skeleton_sm.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
 </Project>
